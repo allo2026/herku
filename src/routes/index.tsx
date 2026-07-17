@@ -123,7 +123,7 @@ function Home() {
                 <p>Countries served</p>
               </div>
               <div>
-                <p className="text-3xl text-white font-medium">9 yrs</p>
+                <p className="text-3xl text-white font-medium">2 yrs</p>
                 <p>In production</p>
               </div>
             </div>
