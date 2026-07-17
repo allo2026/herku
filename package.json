@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "heroku-postbuild": "bun run build",
+    "heroku-postbuild": "npm run build",
     "start": "node .output/server/index.mjs"
   },
   "engines": {
